@@ -1,0 +1,13 @@
+7) Can you overload a method with same return type.? Explain your answer with proper logic.
+No
+Eg :
+static void show(int a,int b)
+
+static void show(int a,int b)
+
+this is not support in java. because of the parameter list of two methods are same
+
+There are two ways to overload the method in java
+
+By changing number of arguments
+By changing the data type
